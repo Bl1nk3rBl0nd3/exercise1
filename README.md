@@ -109,6 +109,11 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 
 ```md
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+# Start learning markdown
+##Add an image
+![waterfall](this pc/pictures/waterfall/20190620_130621.jpg)
+![opensource dog](http://www.publicdomainfiles.com/show_file.php?id=13958583025224)
+
 ```
 
 #### How it looks
