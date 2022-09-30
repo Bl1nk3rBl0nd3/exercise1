@@ -1,13 +1,15 @@
 <!--
-  <<< Author notes: Header of the course >>>
+  <<< # Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Communicate using Markdown
+## Communicate using Markdown
+_*did my change show up*_
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+
+## Organize ideas and collaborate using Markdown, a lightweight language for text formatting.
 
 <!--
   <<< Author notes: Start of the course >>>
@@ -107,6 +109,11 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 
 ```md
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+# Start learning markdown
+##Add an image
+![waterfall](this pc/pictures/waterfall/20190620_130621.jpg)
+![opensource dog](http://www.publicdomainfiles.com/show_file.php?id=13958583025224)
+
 ```
 
 #### How it looks
