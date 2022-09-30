@@ -13,3 +13,8 @@ html
 &bull;
 &hearts
 '''
+
+
+- [ ] blank box
+- [x] check box
+- [ ] verify steps
